@@ -1,0 +1,13 @@
+target:	www.tryhackme.com
+![[Pasted image 20250109161258.png]]
+![[Pasted image 20250109161320.png]]
+![[Pasted image 20250109161410.png]]
+![[Pasted image 20250109161458.png]]
+![[Pasted image 20250109161514.png]]
+![[Pasted image 20250109161539.png]]
+![[Pasted image 20250109161558.png]]
+![[Pasted image 20250109161642.png]]
+![[Pasted image 20250109161705.png]]
+![[Pasted image 20250109161808.png]]
+![[Pasted image 20250109161831.png]]
+![[Pasted image 20250109161851.png]]
