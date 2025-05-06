@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "obsidian",
+  "accentColor": "#5cf57b",
+  "interfaceFontFamily": "Andale Mono",
+  "cssTheme": "Dekurai",
+  "baseFontSize": 23,
+  "baseFontSizeAction": true
+}

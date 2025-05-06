@@ -25,4 +25,8 @@
 25. [[CUpp (Common User Passwords Profiler)]]
 26. [[Spiderfoot]]
 27. [[Zphisher]]
-28. [[]]
+28. [[Nuclei]]
+29. [[GIMP]]
+30. [[Name-That-Hash]]
+31. [[cewl]]
+32. 

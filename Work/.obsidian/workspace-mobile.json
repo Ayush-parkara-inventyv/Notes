@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "9cfe2a487966ecd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc6c55f1659e515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a31a5eb7a967a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical Performed Notes/Snort/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3b53c2d9035cfdf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "30c061a334a023f1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "261f687d0f3a1142",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "cb46f8efb93db754",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "a0a147078638c71f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d44478374e6d7884",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b64305133f2935db",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Practical Performed Notes/Snort/Notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f7c9283937fdf91d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "12308539f1146465",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "e2a31a5eb7a967a5",
+  "lastOpenFiles": [
+    "Practical Performed Notes/Snort/IDS work using snort.md",
+    "Practical Performed Notes/Snort/Notes.md",
+    "Practical Performed Notes/bandit/Bandit10.md",
+    "Practical Performed Notes/bandit/Bandit13.md",
+    "Practical Performed Notes/DNS Spoofing using ettercap/Notes.md",
+    "Practical Performed Notes/DVWA/Authorization bypass.md",
+    "Practical Performed Notes/Badstore Vulnhub/Notes.md",
+    "Practical Performed Notes/bandit/Bandit8.md",
+    "Mod Security A WAF(Web Application Firewall)/What is Mod Security.md",
+    "things to do.md",
+    "Pending.md",
+    "DVWA/XSS (Stored).md",
+    "Theoretical notes/Docker/Docker Notes.md",
+    "Practical Performed Notes/DVWA/XSS (Reflected).md",
+    "Practical Performed Notes/Mr.Robot/key3_photo1.png",
+    "Practical Performed Notes/DVWA/Command Injection.md",
+    "Practical Performed Notes/DVWA/Weak Session IDs.md",
+    "Practical Performed Notes/bandit/Bandit28.md",
+    "Practical Performed Notes/Mr.Robot/key3_photo3.png",
+    "Practical Performed Notes/Wifi hacking using airodump and aireplay/Wi-Fi Hacking with Airodump-ng and Aireplay-ng.md",
+    "Theoretical notes/Github Training Notes/Gherkin.md",
+    "Theoretical notes/Github Training Notes/Branching Protection.md",
+    "Theoretical notes/ProjectDiscovery.io/ProjectDiscovery.io.md",
+    "Practical Performed Notes/bandit/Bandit6.md",
+    "Practical Performed Notes/Mr.Robot/key2_photo15.png",
+    "Reports/SpiderFoot Reports/Report 4.md",
+    "Practical Performed Notes/DVWA/Instructions.md",
+    "Practical Performed Notes/Mr.Robot/key3_photo2.png",
+    "Practical Performed Notes/bandit/Bandit2.md",
+    "Practical Performed Notes/Mr.Robot/key2_photo13.png",
+    "Practical Performed Notes/Mr.Robot/Getting key-3-of-3.txt.md",
+    "Practical Performed Notes/Mr.Robot/key2_photo1.png",
+    "Practical Performed Notes/Mr.Robot/key2_photo11.png",
+    "Practical Performed Notes/Mr.Robot/key2_photo5.png",
+    "Practical Performed Notes/Mr.Robot/key2_photo17.png",
+    "Practical Performed Notes/Mr.Robot/key2_photo2.png",
+    "Theoretical notes/ProjectDiscovery.io",
+    "Theoretical notes/ISO_IEC 27001",
+    "Theoretical notes/Hashing Algorithms",
+    "Theoretical notes/Github Training Notes",
+    "Theoretical notes/Docker",
+    "Theoretical notes",
+    "Reports/SpiderFoot Reports",
+    "Reports",
+    "Practical Performed Notes/bandit",
+    "Practical Performed Notes/Wifi hacking using airodump and aireplay"
+  ]
+}

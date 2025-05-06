@@ -4,24 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "6e01cf7d9e5c42d0",
+        "id": "fb7cb7b5975348a2",
         "type": "tabs",
         "children": [
           {
-            "id": "8dfbbac13e391b90",
+            "id": "8eaf92a0ffd21bc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zphisher.md",
+                "file": "Tools/1List of Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zphisher"
+              "title": "1List of Tools"
+            }
+          },
+          {
+            "id": "a2cb534aab74a095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approach to any machine IP Address 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Approach to any machine IP Address 1"
+            }
+          },
+          {
+            "id": "abca5b0824788957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcade Games and all How many completed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arcade Games and all How many completed"
+            }
+          },
+          {
+            "id": "d8b4f519a4d28eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practical Performed Notes/Mod Security A WAF(Web Application Firewall)/Installation and Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Installation and Setup"
+            }
+          },
+          {
+            "id": "a1519996d254ce82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task 1"
+            }
+          },
+          {
+            "id": "5c5fbf8e52f3dfdb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "obsidian_images/Pasted image 20250506123733.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250506123733"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -40,7 +109,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openssl",
+                "query": "Pasted image 20241218110532",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Mr.Robot/Getting key-2-of-3.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for Getting key-2-of-3.txt"
             }
           },
           {
@@ -127,7 +197,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,13 +211,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Tools/Zphisher.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of Zphisher"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,57 +236,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "dc1e39f600dc3e1a",
   "lastOpenFiles": [
-    "SpiderFoot Reports/Report 5.md",
-    "SpiderFoot Reports/Report 2.md",
-    "SpiderFoot Reports/Report 3.md",
-    "SpiderFoot Reports/Report 4.md",
-    "SpiderFoot Reports/Report 1.md",
-    "SpiderFoot Reports",
-    "Tools/1List of Tools.md",
-    "Zphisher.md",
-    "Tools/CUpp (Common User Passwords Profiler).md",
-    "Tools/Spiderfoot.md",
-    "Pending.md",
-    "things to do.md",
-    "Matrix 2 Vulnhub/Matrix 2.md",
-    "Wifi hacking using airodump and aireplay/Wi-Fi Hacking with Airodump-ng and Aireplay-ng.md",
-    "Untitled.md",
-    "Tools/Aireplay.md",
-    "Wifi hacking using airodump and aireplay",
-    "Tools/Airodump.md",
-    "Tools/Airgeddon.md",
-    "Tools/Airmon-ng.md",
-    "Tools/Aircrack-ng.md",
+    "obsidian_images/Pasted image 20250506123950.png",
+    "obsidian_images/Pasted image 20250506123752.png",
+    "obsidian_images/Pasted image 20250506123733.png",
+    "Task 2.md",
+    "obsidian_images/README.md",
+    "obsidian_images",
+    "Task 1.md",
+    "obsidian_images/Pasted image 20250506124535.png",
+    "obsidian_images/Pasted image 20250506124516.png",
+    "obsidian_images/Pasted image 20250506124420.png",
+    "obsidian_images/Pasted image 20250506124237.png",
+    "obsidian_images/Pasted image 20250506124133.png",
+    "Practical Performed Notes/Mod Security A WAF(Web Application Firewall)/Installation and Setup.md",
     "Tools/suricata.md",
-    "Tools/Wireshark.md",
-    "Tools/Burpsuite.md",
-    "Tools/Metasploit.md",
-    "Tools/Nessus.md",
-    "Tools/SQLMAP.md",
-    "Tools/Hydra.md",
-    "Mr.Robot/key2_photo1.png",
-    "Mr.Robot.zip",
-    "Pictures/Pasted image 20250109155917.png",
-    "Mr.Robot/key2_photo17.png",
-    "Untitled/desktop.ini",
-    "Tools",
-    "Docker",
-    "Pictures/Pasted image 20250109161851.png",
-    "Pictures/Pasted image 20250109155139.png",
-    "Pictures/Pasted image 20250109155222.png",
-    "Pictures/Pasted image 20250109161831.png",
-    "Pictures/Pasted image 20250109161808.png",
-    "Pictures/Pasted image 20250109161705.png",
-    "Pictures/Pasted image 20250109161642.png",
-    "SpiderFoot",
-    "Untitled.canvas",
-    "Try Hack Me",
-    "Matrix 2 Vulnhub",
-    "Mr.Robot"
+    "Tools/testssl.sh.md",
+    "Tools/1List of Tools.md",
+    "Practical Performed Notes/Mr.Robot/Getting key-2-of-3.txt.md",
+    "Practical Performed Notes/Mr.Robot/Getting key-1-of-3.txt.md",
+    "Practical Performed Notes/Metasploitable/vsftpd 2.3.4.md",
+    "Practical Performed Notes/Metasploitable/VNC.md",
+    "Practical Performed Notes/Metasploitable/UnrealIRCd.md",
+    "Practical Performed Notes/Metasploitable/Samba.md",
+    "Practical Performed Notes/Metasploitable/mysql.md",
+    "Practical Performed Notes/Metasploitable/Metasploitable root shell.md",
+    "Practical Performed Notes/Metasploitable/java rmi.md",
+    "Practical Performed Notes/Metasploitable/Apache httpd 2.2.8.md",
+    "Practical Performed Notes/bandit/Bandit29.md",
+    "Practical Performed Notes/bandit/Bandit28.md",
+    "Practical Performed Notes/Badstore Vulnhub/Notes.md",
+    "Practical Performed Notes/Mod Security A WAF(Web Application Firewall)/What is Mod Security.md",
+    "Practical Performed Notes/Matrix 2 Vulnhub/Matrix 2.md",
+    "Tools/Nuclei.md",
+    "Tools/Nmap.md",
+    "Tools/nikto.md",
+    "Tor",
+    "Excalidraw",
+    "Certification Prep Notes/CCNA Certification Training Videos/Daniel Dib_Network Design Fundamentals",
+    "Certification Prep Notes/CCNA Certification Training Videos/Fundamentals of OSPF with André Laurent",
+    "Pictures/Pasted image 20250109154410.png",
+    "Pictures/Pasted image 20250109154449.png",
+    "Practical Performed Notes/Mod Security A WAF(Web Application Firewall)",
+    "Certification Prep Notes/CCNA Certification Training Videos/Eric Rivard Spanning Tree Configuration and Best Practices",
+    "Certification Prep Notes/CCNA Certification Training Videos/IPv6 for CCNA - Allan Johnson",
+    "Certification Prep Notes/CCNA Certification Training Videos/IPv6 for CCNAs with Anthony Sequeira",
+    "Certification Prep Notes/CCNA Certification Training Videos/IPv6 Guide/IPv6",
+    "Untitled.canvas"
   ]
 }

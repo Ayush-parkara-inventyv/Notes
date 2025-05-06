@@ -9,3 +9,7 @@ sql injection in portswigger notes making
 vulnhub badstore ctf notes pending
 
 matrix 2 vulnhub notes pending
+
+Methodologies 
+
+Hashing Algorithms

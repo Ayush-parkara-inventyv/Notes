@@ -7,7 +7,9 @@ now set the network config to bridged and then start the kali
 
 then open terminal and do the command to start ettercap 
 and also run the same using sudo 
-**sudo ettercap -G**
+```
+sudo ettercap -G
+```
 where according to me G is for the user gui
 then you will be prompted the screen to select 
 ![[Pasted image 20250108170557.png]]
